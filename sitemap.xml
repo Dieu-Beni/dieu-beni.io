@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dieu-beni.github.io/</loc>
+    <loc>https://dieu-beni.github.io/dieu-beni/</loc>
     <lastmod>2025-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <!-- Pour un site one-page, on peut aussi lister les ancres -->
   <url>
-    <loc>https://dieu-beni.github.io/#projects</loc>
+    <loc>https://dieu-beni.github.io/dieu-beni/#projects</loc>
     <lastmod>2025-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://dieu-beni.github.io/#contact</loc>
+    <loc>https://dieu-beni.github.io/dieu-beni/#contact</loc>
     <lastmod>2025-01-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
